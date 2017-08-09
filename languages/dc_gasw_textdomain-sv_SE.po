@@ -1,0 +1,78 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Google Analytics Site Wide v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-10-29 20:27:01+0000\n"
+"Last-Translator: admin <daniel.soderstrom@cybercom.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Swedish\n"
+"X-Poedit-Country: SWEDEN\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: dc-google-analytics.php:221
+#@ dc_gasw_textdomain
+msgid "Google Analytics Tracking Code"
+msgstr "Spårningskod"
+
+#: dc-google-analytics.php:230
+#@ dc_gasw_textdomain
+msgid "Domain"
+msgstr "Domän"
+
+#: dc-google-analytics.php:256
+#@ dc_gasw_textdomain
+msgid "Location"
+msgstr "Placering"
+
+#: dc-google-analytics.php:183
+#@ dc_gasw_textdomain
+msgid "Google Analytics - Site Wide"
+msgstr ""
+
+#: dc-google-analytics.php:231
+#@ dc_gasw_textdomain
+msgid " Enter the domain (domainname.se, exclude http:// and www) that is registred for your tracking code."
+msgstr "Ange toppdomän utan http:// eller www  (domannamn.se) som är registrerad för spårningskoden."
+
+#: dc-google-analytics.php:262
+#@ dc_gasw_textdomain
+msgid "Add to page header"
+msgstr "Lägg till i sidhuvud"
+
+#: dc-google-analytics.php:266
+#@ dc_gasw_textdomain
+msgid "Add to page footer"
+msgstr "Lägg till i sidfot"
+
+#: dc-google-analytics.php:198
+#: dc-google-analytics.php:239
+#@ dc_gasw_textdomain
+msgid "Disable Universal Analytics"
+msgstr "Inaktivera Universal Analytics"
+
+#: dc-google-analytics.php:240
+#@ dc_gasw_textdomain
+msgid "Default setting is for Universal Analytics, check this option if you need to use ga.js"
+msgstr "Som standard användas Universal Analytics vilket använder de senaste funktionerna för Google Analytics. Markera denna kryssruta om du önskar använda det äldre biblioteket ga.js."
+
+#: dc-google-analytics.php:248
+#@ dc_gasw_textdomain
+msgid "Excluded sites"
+msgstr "Exkludera webbplatser"
+
+#: dc-google-analytics.php:249
+#@ dc_gasw_textdomain
+msgid "Enter the id for the site you wish to exclude (use a comma separated list for multiple sites)."
+msgstr "Ange id för den webbplats du önskar exkludera från Analytics (använd kommaseparerad lista om det gäller fler än en webbplats)."
+
